@@ -1,0 +1,4 @@
+#ifndef CSY_SCENELOADER_H
+#define CSY_SCENELOADER_H
+
+#endif //CSY_SCENELOADER_H
